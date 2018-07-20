@@ -1,0 +1,4 @@
+﻿  pthread_test.cpp
+\\mac\home\documents\visual studio 2015\projects\pthread_test\pthread_test\pthread_test.cpp(11): warning C4005: “HAVE_STRUCT_TIMESPEC”: 宏重定义
+  \\mac\home\documents\visual studio 2015\projects\pthread_test\pthread_test\pthread_test.cpp(11): note: 命令行参数: 参见前面的“HAVE_STRUCT_TIMESPEC”定义
+  pthread_test.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\pthread_test\Debug\pthread_test.exe
